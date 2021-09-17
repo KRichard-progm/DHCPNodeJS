@@ -1,0 +1,11 @@
+{
+  "name": "DHCPNodeJS",
+  "version": "1.0.0",
+  "dependencies": {
+    "address": "^1.1.2",
+    "dhcp": "^0.2.20"
+  },
+  "devDependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
